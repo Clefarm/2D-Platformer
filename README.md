@@ -1,11 +1,11 @@
 # Project Name
-The Bomber Fall
+Dropper Jump
 
 Context and date
 12/6/23
 
 Description
-This is a 2D Platformer game. Themed to be "Inside Out". Inspired by the Doodle Jump game, this is The Bomber Fall.
+This is a 2D Platformer game.
 
 ## Implementation
 Custom Sprites & Music
@@ -24,5 +24,3 @@ https://bayat.itch.io/platform-game-assets
 
 ## Created by
 Cleveland Farmer
-Sophia Butt
-Max Bailey
